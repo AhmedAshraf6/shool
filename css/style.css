@@ -1,5 +1,6 @@
 body {
   font-family: 'Open Sans', sans-serif;
+   overflow-x:hidden;
 }
 :root {
   --main-color: #a91f1f;
@@ -9,6 +10,7 @@ body {
 }
 html {
   scroll-behavior: smooth;
+  overflow-x:hidden;
 }
 .container {
   padding-left: 17px;
